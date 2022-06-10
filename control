@@ -1,0 +1,9 @@
+Package: nehyci.okxbypassjailbreak
+Name: OKXBypassJailbreak
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: OKX (欧易) 屏蔽越狱检测
+Maintainer: nehyci
+Author: nehyci
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
